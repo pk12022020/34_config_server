@@ -1,6 +1,12 @@
 build:
  version : "2.0.0"
-eureka:
+accounts:
+ message:"Welcome to JavaExpress accounts related to dev apis"
+contactDetails:
+  name : "pk Dveloper"
+  onCallSuport:
+    -(+91) 1236544
+ eureka:
   client:
     fetch-registry: true
     register-with-eureka: true
